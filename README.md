@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💗💗 
 Meu nome é Ana Beatriz de Castro
-![](http://disneypixar.tumblr.com/post/108176637545/ohmydisney-what-its-like-waiting-for-the-next)
+![descrição](https://64.media.tumblr.com/bb329cf296098e6a28a4bfa6f97518e3/tumblr_o5mm9u0gfv1voco23o1_500.gif)
 - Estou estudando na Alura    
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
