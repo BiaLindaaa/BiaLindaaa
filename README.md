@@ -7,6 +7,8 @@ Meu nome é Ana Beatriz de Castro
 - Você pode entrar em contato comigo 📫 💗 
 ana.beatriz.castro@escola.pr.gov.br
 
+Este trabalho está licenciado sob CC BY-NC 4.0. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc/4.0/© 2 por A
+
 
 
 <!--
